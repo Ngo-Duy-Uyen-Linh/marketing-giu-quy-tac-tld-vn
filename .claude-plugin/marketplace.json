@@ -1,0 +1,13 @@
+{
+  "name": "marketing-giu-quy-tac-tld-vn",
+  "owner": {
+    "name": "Thế Là Được"
+  },
+  "plugins": [
+    {
+      "name": "marketing-giu-quy-tac-tld-vn",
+      "source": "./",
+      "description": "Marketing: giữ quy tắc nội dung. Hỗ trợ tổ chức kiểm bài đăng, kịch bản, ảnh, chú thích theo bộ quy tắc nội dung trước khi đăng, chỉ ra chỗ cần sửa và chuyển người duyệt khi cần. Một phần của bộ Marketing-skills-tld-vn. Không có kết nối ra ngoài."
+    }
+  ]
+}
