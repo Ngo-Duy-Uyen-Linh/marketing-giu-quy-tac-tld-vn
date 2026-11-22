@@ -1,7 +1,7 @@
 <!-- TẠO TỰ ĐỘNG bằng dong-bo.cjs từ marketing-skills-tld-vn. Không sửa ở đây. -->
 # marketing-giu-quy-tac-tld-vn: Marketing: giữ quy tắc nội dung
 
-Bản 0.5.0. Hỗ trợ tổ chức kiểm bài đăng, kịch bản, ảnh, chú thích theo bộ quy tắc nội dung trước khi đăng, chỉ ra chỗ cần sửa và chuyển người duyệt khi cần.
+Bản 0.6.0. Hỗ trợ tổ chức kiểm bài đăng, kịch bản, ảnh, chú thích theo bộ quy tắc nội dung trước khi đăng, chỉ ra chỗ cần sửa và chuyển người duyệt khi cần.
 
 Gói này là một vai trong bộ **Marketing-skills-tld-vn**, tách riêng để nhân sự AI chỉ nạp kỹ năng của đúng vai mình, đỡ tốn chi phí mỗi lượt chạy. Dùng được trong Claude Code và nạp được vào hệ thống quản trị Thế Là Được.
 
@@ -12,7 +12,7 @@ Gói này là một vai trong bộ **Marketing-skills-tld-vn**, tách riêng đ�
 ## Các vai khác của bộ
 - `marketing-nghien-cuu-tld-vn`: nghiên cứu và kế hoạch
 - `marketing-sang-tao-tld-vn`: sáng tạo nội dung
-- `marketing-binh-luan-tld-vn`: trả lời bình luận công khai
+- `marketing-binh-luan-tld-vn`: trả lời bình luận và xử lý sự cố
 
 ## Cấu trúc
 ```
