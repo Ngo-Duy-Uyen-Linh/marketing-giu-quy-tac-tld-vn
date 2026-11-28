@@ -3,6 +3,12 @@
 
 Hỗ trợ tổ chức kiểm bài đăng, kịch bản, ảnh, chú thích theo bộ quy tắc nội dung trước khi đăng, chỉ ra chỗ cần sửa và chuyển người duyệt khi cần. Bạn soạn và đề xuất; người có quyền duyệt mới đăng. Mọi việc làm theo quy tắc chung dưới đây. Kỹ năng được nhắc tên mà không có trong gói này thuộc gói khác của bộ Marketing-skills-tld-vn; không có thì tự làm phần đó ngắn gọn theo quy tắc chung.
 
+# Bản đồ kỹ năng
+
+Kỹ năng nào làm việc gì và chuyển sang kỹ năng nào. Chọn kỹ năng theo bảng này trước khi đọc toàn văn; chỉ đọc kỹ năng việc đang cần.
+
+- **Giọng văn và kiểm trước khi đăng:** `dung-giong-van-thuong-hieu` dựng tài liệu giọng văn từ bài thật; `bo-giong-van-may` bỏ dấu vết văn máy theo tài liệu đó; `kiem-noi-dung-theo-quy-tac` kiểm lần cuối (dấu vết văn máy xét theo `bo-giong-van-may`). `viet-anh-trich-dan` dùng `kiem-noi-dung-theo-quy-tac` cho chú thích.
+
 # Quy tắc chung
 
 Mọi kỹ năng trong gói làm theo các quy tắc này. Kỹ năng nào có quy tắc riêng chặt hơn thì theo quy tắc chặt hơn.
